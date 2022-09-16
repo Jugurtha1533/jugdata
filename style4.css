@@ -1,0 +1,59 @@
+
+
+body{
+    background-color: brown;
+    font-family: Georgia;
+    font-family: 11px;
+}
+
+/* #article1
+ {
+   
+}
+
+
+#article2
+{
+    background-color:violet;
+    color: black;
+
+} */
+
+
+
+ article{
+    width: 500px;
+    height: 100px;
+} 
+
+
+
+.principale{
+    background-color: aqua;
+    color: purple;
+    display: flex;
+    justify-content: space-around;
+}
+
+.article{
+    width: 500px;
+}
+
+aside
+{
+    background-color: beige;
+    color: blueviolet;
+    font-family: Arial;
+    font-size:13px;
+    width: 500px;
+    /* height: 10px; */
+
+}
+
+
+footer{
+
+    background-color: rgb(255, 205, 244);
+    font-family: Arial ;
+    font-size: 14;
+}
